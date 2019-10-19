@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcloud builds submit --tag gcr.io/proven-sum-252123/py-svc .
+gcloud builds submit --tag gcr.io/premium-gear-252201/py-svc .
